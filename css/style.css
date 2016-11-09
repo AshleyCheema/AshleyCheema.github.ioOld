@@ -271,7 +271,7 @@ ul.nav{
 	margin-bottom: 30px;
 }
 .portfolio-heading p{
-	font-size: 16px;
+	font-size: 18px;
 	color: #7e8287;
 	margin-bottom: 80px;
 }
@@ -338,7 +338,7 @@ ul.nav{
 	margin-bottom: 35px;
 }
 .contact p{
-	font-size: 16px;
+	font-size: 24px;
 	color: #7e8287;
 	margin-top: 30px;
 	margin-bottom: 70px;
@@ -376,7 +376,7 @@ input.message{
 	width: 200px;
 	height: 50px;
 	border:0;
-	background: #cfc91d;
+	background: #02918c;
 	font-size: 14px;
 	color: #0b1016;
 	font-weight: 800;
@@ -390,8 +390,8 @@ input.message{
 	-ms-transition: all 0.5s ease 0s;
 }
 .contact-form input.submit-btn:hover{
-	background: red;
-	color: #fff;
+	background: white;
+	color: black;
 }
 
 .form-input::-webkit-input-placeholder {
