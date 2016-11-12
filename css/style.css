@@ -212,9 +212,9 @@ ul.nav{
 	margin-bottom: 40px;
 }
 .service p{
-	font-size: 16px;
-	color: #7e8287;
-	margin-top: 35px;
+	font-size: 20px;
+	color: #fff;
+	margin-top: 20px;
 }
 .services{
 	margin-left: 0;
@@ -225,8 +225,8 @@ ul.nav{
 }
 .single-service{
 	margin-left: 0;
-	padding-left: 20px;
-	margin-top: 50px;
+	padding-left: 15px;
+	margin-top: 0px;
 	background: #0d0d0d;
 }
 .single-service:hover{
@@ -242,9 +242,9 @@ ul.nav{
 	color: #7e8287;
 }
 .single-service p{
-	font-size: 11px;
+	font-size: 14px; //THIS ONE
 	color: #7e8287;
-	margin-top: 5px;
+	margin-top: 2px;
 }
 .single-service:hover.single-service i.fa{
 	color: #fff;
@@ -301,8 +301,8 @@ ul.nav{
 .portfolio-details{
 	position: absolute;
 	z-index: 99;
-	top: 25px;
-  	left: 32px;
+	top: 30px;
+  	left: 45px;
 	width: 80%;
 	height: 80%;
 	background: rgba(2, 145, 140, 0.77);
@@ -321,10 +321,10 @@ ul.nav{
 	font-size: 16px;
 	color: #fff;
 	font-weight: 800;
-	margin-top: 55px;
+	margin-top: 30px;
 }
 .portfolio-details p{
-	font-size: 13px;
+	font-size: 14px;
 	color: #fff;
 	padding: 5px 20px;
 }
@@ -335,13 +335,13 @@ ul.nav{
 	color: #02918c;
 	margin-top: 100px;
 	font-weight: 800;
-	margin-bottom: 35px;
+	margin-bottom: 20px;
 }
 .contact p{
 	font-size: 24px;
 	color: #7e8287;
 	margin-top: 30px;
-	margin-bottom: 70px;
+	margin-bottom: 30px;
 }
 .contact-form{
 	margin: 0;
@@ -422,8 +422,8 @@ color:#EFEFEF;
   background-color: #FFF;
 }
 .nivo-lightbox-image img{
-	width: 600px;
-	height: 400px;
+	width: 2222px;
+	height: 1262px;
 }
 
 
